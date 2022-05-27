@@ -1,6 +1,7 @@
 Driver
 Customer
 User
+UserLoginLog
 Order
 Items(Vehicles/Menu item)
 Userphoto
@@ -15,3 +16,5 @@ Setting(Config)
 Billing
 Payroll
 DriverNotAvailableDates
+Calendar
+Holidays
