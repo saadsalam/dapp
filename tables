@@ -1,6 +1,7 @@
 Driver
 Customer
-user
-order
-userphoto
+User
+Order
+Userphoto
 Deliveryphoto
+GPSHistory
