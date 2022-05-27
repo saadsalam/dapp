@@ -1,6 +1,10 @@
 Driver
+([LastLongReported] [varchar](20) NULL, 		-- 18603: New field
+	[LastLatReported] [varchar](20) NULL,		-- 18603: New field
+	[LastLatLongDateTime] [datetime] NULL,		-- 18603: New field)
 Customer
 User
+  (Pin,Pwd)
 UserLoginLog
 Order
 Items(Vehicles/Menu item)
@@ -14,6 +18,7 @@ Load
 Setting(Config)
 
 Billing
+BillingLineItems
 Payroll
 DriverNotAvailableDates
 Calendar
