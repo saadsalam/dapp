@@ -1,0 +1,19 @@
+a. Address is required.
+b. City is required.
+c. Collateral is required.
+d. Please use MM/DD/YYYY format.
+d. Check date.  This should be before today's date.
+e. Email is required.
+e. Please provide valid email address.
+f. First Name is required.
+i. Organizational ID should be provided. If not known, put "NONE" in the field.
+j. Organizational Jurisdiction is required.
+l. Last Name is required.
+n. At least one filing number should be provided.
+n. only comma separated list of 8 or 12 digit numbers allowed.
+o. Organization Name is required.
+p. Postal Code is required.
+s. Incorrect State/Province Code.
+t. Organization Type is required.
+z. Incorrect Country Code.
+
